@@ -1,0 +1,33 @@
+_repo: Psychotherapy_22775
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 22775-h/images/imgcover3.jpg
+creator:
+  author:
+    agent_name: Münsterberg, Hugo
+    aliases:
+    - Munsterberg, Hugo
+    - Hugo Münsterberg
+    birthdate: 1863
+    deathdate: 1916
+    gutenberg_agent_id: '5888'
+    url: http://www.gutenberg.org/2009/agents/5888
+    wikipedia: http://en.wikipedia.org/wiki/Hugo_M%C3%BCnsterberg
+description: ''
+gutenberg_bookshelf: Psychology
+gutenberg_issued: '2007-09-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22775'
+  lccn: 09012057
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mind and body'
+- !lcc 'RZ'
+- !lcsh 'Mental healing'
+title: Psychotherapy
+url: http://www.gutenberg.org/ebooks/22775
