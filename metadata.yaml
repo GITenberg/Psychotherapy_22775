@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5888
     wikipedia: http://en.wikipedia.org/wiki/Hugo_M%C3%BCnsterberg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22775#Psychotherapy
 gutenberg_bookshelf: Psychology
 gutenberg_issued: '2007-09-27'
 gutenberg_type: Text
